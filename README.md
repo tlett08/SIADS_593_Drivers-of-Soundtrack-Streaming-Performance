@@ -7,4 +7,6 @@ For our Milestone 1 project for the University of Michigan's Applied Data Scienc
   3. EDA and visualizations
   4. Feature engineering, correlation analysis, and linear regression
 
-The datasets we include in the repository are samples of the first 1k rows, covering the steps of the pipeline post-join. For a summary of our findings, please see the PDF included in the repo which contains the final report we submitted for a grade.
+The datasets included in this repository are samples of the first 1k rows, covering the steps of the pipeline post-join. The full dataset is hosted on Kaggle: https://www.kaggle.com/datasets/tonylett/drivers-of-film-soundtrack-popularity-datasets.
+
+For a summary of our findings, please see the PDF included in the repo which contains the final report we submitted for a grade.
